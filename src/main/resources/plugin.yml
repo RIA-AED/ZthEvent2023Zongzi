@@ -1,0 +1,4 @@
+name: ZthEvent2023Zongzi
+version: '${project.version}'
+main: ink.magma.zthevent2023zongzi.ZthEvent2023Zongzi
+api-version: '1.18'
